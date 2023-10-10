@@ -18,7 +18,7 @@ import CloudQueueIcon from  "@mui/icons-material/CloudQueue";
 import CloudOffIcon from  "@mui/icons-material/CloudOff";
 import ContentPasteSearchIcon from  "@mui/icons-material/ContentPasteSearch";
 import ScenarioTestController from "./scenariotest/ScenarioTestController.jsx";
-import ScenarioExplorer from "./scenario_explorer/ScenarioExplorer";
+import ScenarioExplorer from "./scenarioExplorer/ScenarioExplorer";
 
 
 export default function Sidebar({ domain, loadtestSpecs, rqas, nodes, edges }) {
